@@ -8,7 +8,7 @@ const Footer: React.FC = () => {
       <div className="max-w-6xl mx-auto flex flex-col md:flex-row justify-between items-center gap-6">
         {/* Left: Text */}
         <div className="text-sm text-center md:text-left">
-          &copy; {year} Amogha. All rights reserved.
+          &copy; {year} Amogha Rao. All rights reserved.
         </div>
 
         {/* Right: Social Icons */}

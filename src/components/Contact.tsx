@@ -1,5 +1,4 @@
 import { motion } from 'framer-motion';
-import { FaEnvelope, FaGithub, FaLinkedin } from 'react-icons/fa';
 import SplineContact from './spline/splineUse';
 
 const Contact: React.FC = () => {
